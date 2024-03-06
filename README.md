@@ -4,7 +4,7 @@ Simple quite random password generator and viewer for POSIX systems
 ## Installing
 1. Clone repository to your machine
 
-`git clone lordcoudy/Password-Generator generator`
+`git clone https://github.com/lordcoudy/Password-Generator.git generator`
 
 2. Go to cloned directory: 
 
